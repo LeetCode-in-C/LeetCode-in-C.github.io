@@ -43,8 +43,6 @@ You can return the answer in any order.
 ## Solution
 
 ```c
-﻿// #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table
-
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
