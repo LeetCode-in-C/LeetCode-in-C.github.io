@@ -23,6 +23,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0015 |[3Sum](src/main/c/g0001_0100/s0015_3sum)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 47 | 87.75
 
 #### Day 2 Array
@@ -75,6 +76,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0002 |[Add Two Numbers](src/main/c/g0001_0100/s0002_add_two_numbers)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 12 | 70.50
+| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
 
 #### Day 11 Linked List
 
@@ -211,6 +213,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 ### Algorithm II
 
@@ -302,6 +305,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
 
 #### Day 16 Dynamic Programming
 
@@ -542,6 +546,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 8
 
@@ -552,6 +557,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
 | 0042 |[Trapping Rain Water](src/main/c/g0001_0100/s0042_trapping_rain_water)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 
 #### Day 10
@@ -755,6 +761,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0138 |[Copy List with Random Pointer](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 4 | 91.18
 
 #### Day 15
 
@@ -933,11 +940,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
 
 #### Day 5 Greedy
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 6 Tree
 
@@ -1111,6 +1120,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0007 |[Reverse Integer](src/main/c/g0001_0100/s0007_reverse_integer)| Medium | Top_Interview_Questions, Math | 0 | 100.00
 | 0009 |[Palindrome Number](src/main/c/g0001_0100/s0009_palindrome_number)| Easy | Math | 0 | 100.00
 
@@ -1133,6 +1143,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0001 |[Two Sum](src/main/c/g0001_0100/s0001_two_sum)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 2 | 99.56
 | 0055 |[Jump Game](src/main/c/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0075 |[Sort Colors](src/main/c/g0001_0100/s0075_sort_colors)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
@@ -1171,8 +1182,12 @@
 |-|-|-|-|-|-
 | 0114 |[Flatten Binary Tree to Linked List](src/main/c/g0101_0200/s0114_flatten_binary_tree_to_linked_list)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/c/g0001_0100/s0024_swap_nodes_in_pairs)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
+| 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
 | 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0138 |[Copy List with Random Pointer](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 4 | 91.18
 | 0025 |[Reverse Nodes in k-Group](src/main/c/g0001_0100/s0025_reverse_nodes_in_k_group)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 0 | 100.00
+| 0146 |[LRU Cache](src/main/c/g0101_0200/s0146_lru_cache)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 37 | 91.67
 
 #### Udemy Tree Stack Queue
 
@@ -1181,6 +1196,7 @@
 | 0094 |[Binary Tree Inorder Traversal](src/main/c/g0001_0100/s0094_binary_tree_inorder_traversal)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](src/main/c/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0104 |[Maximum Depth of Binary Tree](src/main/c/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+| 0124 |[Binary Tree Maximum Path Sum](src/main/c/g0101_0200/s0124_binary_tree_maximum_path_sum)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0098 |[Validate Binary Search Tree](src/main/c/g0001_0100/s0098_validate_binary_search_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
 
 #### Udemy Trie and Heap
@@ -1197,6 +1213,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
 | 0070 |[Climbing Stairs](src/main/c/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 1 | 100.00
 | 0064 |[Minimum Path Sum](src/main/c/g0001_0100/s0064_minimum_path_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
 | 0072 |[Edit Distance](src/main/c/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 0 | 100.00
@@ -1240,6 +1257,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 
 #### Day 4 Array
 
@@ -1261,6 +1279,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
 | 0021 |[Merge Two Sorted Lists](src/main/c/g0001_0100/s0021_merge_two_sorted_lists)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
 
 #### Day 8 Linked List
@@ -1308,6 +1327,16 @@
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|--------
+| 0146 |[LRU Cache](src/main/c/g0101_0200/s0146_lru_cache)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 37 | 91.67
+| 0142 |[Linked List Cycle II](src/main/c/g0101_0200/s0142_linked_list_cycle_ii)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_10_Linked_List, Level_1_Day_4_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 4 | 81.55
+| 0141 |[Linked List Cycle](src/main/c/g0101_0200/s0141_linked_list_cycle)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_I_Day_7_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 6 | 92.85
+| 0139 |[Word Break](src/main/c/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Algorithm_II_Day_15_Dynamic_Programming, Dynamic_Programming_I_Day_9, Udemy_Dynamic_Programming, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 0 | 100.00
+| 0138 |[Copy List with Random Pointer](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Programming_Skills_II_Day_14, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 4 | 91.18
+| 0136 |[Single Number](src/main/c/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0131 |[Palindrome Partitioning](src/main/c/g0101_0200/s0131_palindrome_partitioning)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 19 | 89.29
+| 0128 |[Longest Consecutive Sequence](src/main/c/g0101_0200/s0128_longest_consecutive_sequence)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 19 | 89.29
+| 0124 |[Binary Tree Maximum Path Sum](src/main/c/g0101_0200/s0124_binary_tree_maximum_path_sum)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+| 0121 |[Best Time to Buy and Sell Stock](src/main/c/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0114 |[Flatten Binary Tree to Linked List](src/main/c/g0101_0200/s0114_flatten_binary_tree_to_linked_list)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/c/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 3 | 95.24
 | 0104 |[Maximum Depth of Binary Tree](src/main/c/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
